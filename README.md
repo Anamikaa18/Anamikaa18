@@ -6,7 +6,7 @@ My work and learning span AI/ML research, software development, technical experi
 
 This GitHub is where I document that process: projects I'm building, technologies I'm exploring, problems I'm solving, and lessons I'm learning along the way.
 
-[Portfolio](-----) · [LinkedIn](https://www.linkedin.com/anamikana18/) · [Email](mailto:anamikana18@gmail.com)
+[Portfolio](https://my-portfolio-nu-one-rss4pg9qzl.vercel.app/) · [LinkedIn](https://www.linkedin.com/anamikana18/) · [Email](mailto:anamikana18@gmail.com)
 
 ## What I'm interested in
 
@@ -47,7 +47,7 @@ Over time, I want this space to become a useful collection of projects, experime
 
 I'm always open to learning from other developers, exchanging ideas, and collaborating on interesting technical projects.
 
-[LinkedIn](https://www.linkedin.com/anamikana18/) · [GitHub](https://www.github.com/anamikaa18/) · [Portfolio](---)
+[LinkedIn](https://www.linkedin.com/anamikana18/) · [GitHub](https://www.github.com/anamikaa18/) · [Portfolio](https://my-portfolio-nu-one-rss4pg9qzl.vercel.app/)
 
 ---
 
